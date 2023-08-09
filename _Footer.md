@@ -5,4 +5,4 @@
 - Add exercises in tutorials to complete!
 - Extra day? Allow students to work on their own project(s)?
 - Pointing students to additional tutorials of interest. 
- - Using ModelDB models, LFP, etc.
+  - Using ModelDB models, LFP, etc.
